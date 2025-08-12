@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/codeMasters-project-group-seven-js/",
+    "build": "vite build --base=/js_118_mari-yudina/",
     "preview": "vite preview"
   },
   "devDependencies": {
